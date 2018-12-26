@@ -1,6 +1,6 @@
-#mageMagick-TextureAtlas-to-Sprites-Converter
+# mageMagick-TextureAtlas-to-Sprites-Converter
 
-##Usage
+## Usage
 
 ```
  $ node converter.js
