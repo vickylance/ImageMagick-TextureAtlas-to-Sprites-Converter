@@ -1,4 +1,4 @@
-# mageMagick-TextureAtlas-to-Sprites-Converter
+# ImageMagick-TextureAtlas-to-Sprites-Converter
 
 ## Usage
 
