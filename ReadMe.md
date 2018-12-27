@@ -1,5 +1,13 @@
 # ImageMagick-TextureAtlas-to-Sprites-Converter
 
+## Installation
+
+```
+git clone git@github.com:vickylance/ImageMagick-TextureAtlas-to-Sprites-Converter.git
+cd ImageMagick-TextureAtlas-to-Sprites-Converter
+yarn
+```
+
 ## Usage
 
 ```
