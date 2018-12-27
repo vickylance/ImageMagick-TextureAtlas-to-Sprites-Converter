@@ -2,6 +2,8 @@
 
 ## Installation
 
+1. Install [ImageMagick](http://www.imagemagick.org/)
+2. Clone and install this repo,
 ```
 git clone git@github.com:vickylance/ImageMagick-TextureAtlas-to-Sprites-Converter.git
 cd ImageMagick-TextureAtlas-to-Sprites-Converter
