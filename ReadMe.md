@@ -13,7 +13,7 @@ yarn
 ## Usage
 
 ```
- $ node converter.js
+ $ node converter.js
 ? Path to your input spritesheet? ./flappy.png
 ? Path to your JSON file? ./flappy.json
 ? Path to your output folder? out/
